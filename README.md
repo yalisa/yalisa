@@ -10,10 +10,8 @@
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge&logo=tidyverse&logoColor=white)
-[ggplot2](https://img.shields.io/badge/ggplot2-3B6F8C?style=for-the-badge&logo=ggplot2&logoColor=white)   (кастомный)
-![Shiny](https://img.shields.io/badge/Shiny-2088B6?style=for-the-badge&logo=RStudio&logoColor=white)   (используем лого RStudio)
-![RMarkdown](https://img.shields.io/badge/RMarkdown-2D3E50?style=for-the-badge&logo=R&logoColor=white)   (кастомный)
-![knitr](https://img.shields.io/badge/knitr-1A6B8A?style=for-the-badge&logo=R&logoColor=white)   (кастомный)
+![Shiny](https://img.shields.io/badge/Shiny-2088B6?style=for-the-badge&logo=rstudio&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-1D4ED8?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MNE](https://img.shields.io/badge/MNE-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
