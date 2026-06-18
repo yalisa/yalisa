@@ -3,7 +3,7 @@
 - 💻  Research scientist with a background in statistics, cognitive studies and sport physiology.
 - 📊  Author of scientific papers as an analyst and research designer.
 - 🎓  I work in the information and analytics laboratory at a research institute.
-- 🧠  Currently looking for a job as a Data Analyst/ Product Analyst.
+- 🧠  Currently looking for a job as a Data Scientist / ML Engineer.
 - 💥  Busy making the transition into industry by upskilling (Tableau/Power BI).
 
 # 🧰 Tools I use:
