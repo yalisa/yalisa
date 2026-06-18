@@ -1,10 +1,10 @@
 # Hi there, I'm Elisabeth 👋
 
-- 💻  Research scientist with a background in statistics, cognitive studies and sport physiology.
-- 📊  Author of scientific papers as an analyst and research designer.
-- 🎓  I work in the information and analytics laboratory at a research institute.
-- 🧠  Currently looking for a job as a Data Scientist / ML Engineer.
-- 💥  Busy making the transition into industry by upskilling (Tableau/Power BI).
+- 💻 Research scientist with a background in statistics, cognitive studies and sport physiology.
+- 📊 Author of scientific papers as an analyst and research designer.
+- 🎓 I work at a research institute.
+- 🧠 Currently looking for a job as a Data Scientist / ML Engineer.
+- 📊 I do statistics as a freelancer
 
 # 🧰 Tools I use:
 
