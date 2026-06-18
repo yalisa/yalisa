@@ -6,7 +6,7 @@
 - 🧠 Currently looking for a job as a Data Scientist / ML Engineer
 - 📊 I do statistics as a freelancer
 
-# 🧰 Tools I use:
+# 🧰 My fancy badge area
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge&logo=tidyverse&logoColor=white)
