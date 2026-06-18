@@ -23,8 +23,10 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RASPBERRY%20PI-%23C51A4A.svg?style=for-the-badge&logo=raspberry%20pi&logoColor=white)
 
+## 🐁 My pet-projects
 
+👷🛠️🔨
 
-#### ✉️ You can get in touch at the links below:
+## 🤝 Contact me
 
 - [Email](mailto:eyanina@spbniifk.ru)
